@@ -31,7 +31,7 @@ export const Project = () => {
       "jupyter"
     ],
     link: "https://github.com/amineelgardoum-rgb/Prediction_Sales",
-    video_link:"https://drive.google.com/file/d/1BKVdfv45SAt5KYmZ9y06OcjBwSc6EqX7/view?usp=drive_link",
+    video_link:"https://drive.google.com/file/d/15opFfQz-5Mkaq0ZjoO0yZAfYmLnkIadp/view?usp=drive_link",
     image: "/images/structure.png",
   };
 
