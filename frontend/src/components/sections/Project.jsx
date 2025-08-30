@@ -109,7 +109,7 @@ export const Project = () => {
                 return (
                   <div
                     key={skill}
-                    className={`text-5xl cursor-none transition-all duration-500 hover:scale-125 ${color} ${hoverColor} ${glow} hover:-translate-y-1`}
+                    className={`text-5xl cursor-none transition-all duration-500 hover:scale-125 ${color} ${hoverColor} ${glow} hover:-translate-y-2`}
                     title={skill}
                   >
                     {icon}
